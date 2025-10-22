@@ -164,10 +164,12 @@ License
 -------
 
 artwiz-fonts-wl is released under the terms of [the GNU General Public License
-(GPL) version 2](https://opensource.org/licenses/GPL-2.0). Read file
-[COPYING]() for detailed info.
+(GPL) version 2](https://opensource.org/licenses/GPL-2.0).
 
-The Artwiz fonts were originally released under the [ZIWTRA B00GIE LICENSE
-(ZBL)][ZBL].
+The Artwiz fonts were originally released under the 
+[ZIWTRA B00GIE LICENSE (ZBL)](LICENSE)
+
+Archive.org original reference:
+[ZIWTRA B00GIE LICENSE (ZBL)][ZBL].
 
 [ZBL]: https://web.archive.org/web/20011214092005/http://artwiz.artramp.org/LICENSE
