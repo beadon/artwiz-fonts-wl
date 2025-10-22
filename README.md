@@ -145,6 +145,8 @@ GTK Menus
 You might want to use these fonts in GTK 2.x apps menus and other widgets.
 ([screenshot](http://artwiz-latin1.sourceforge.net/screenshots/snap-gtk.png))
 
+Originally sourced from (SourceForge)[https://sourceforge.net/projects/artwiz-latin1/]
+
 Edit `~/.gtkrc.mine`, and add:
 
 ```
